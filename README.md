@@ -5,7 +5,7 @@
 - 📫 How to reach me via gmail: bhuvan2466@gmail.com
 - 😄 Pronouns: He
 - ⚡ Fun fact: i'm a sport person
-- 
+  
 
 <!---
 bhuvn24/bhuvn24 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
